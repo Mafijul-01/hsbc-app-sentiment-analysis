@@ -99,8 +99,6 @@ themes, and actionable insights for a customer experience and campaign analytics
 
 ## Visualisations
 
-### Power Bi Dashboard 
-![Power BI Dashboard](visuals/hsbc-sentiment-analysis.png)
 
 ### Sentiment Distribution
 ![Sentiment Distribution](visuals/sentiment_distribution.png)
@@ -118,8 +116,8 @@ themes, and actionable insights for a customer experience and campaign analytics
 
 ## Dashboard Preview
 > Power BI dashboard saved in `dashboard/hsbc_sentiment_dashboard.pbix`
-
-*(Add Power BI screenshot here)*
+### Power Bi Dashboard 
+![Power BI Dashboard](visuals/hsbc-sentiment-analysis.png)
 
 ---
 
