@@ -115,7 +115,7 @@ themes, and actionable insights for a customer experience and campaign analytics
 ## Dashboard Preview
 > Power BI dashboard saved in `dashboard/hsbc_sentiment_dashboard.pbix`
 
-*(Add Power BI screenshot here)*
+![Dashboard Preview](visuals/hsbc-sentiment-analysis.png)
 
 ---
 
