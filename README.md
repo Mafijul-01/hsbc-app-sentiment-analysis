@@ -86,7 +86,8 @@ themes, and actionable insights for a customer experience and campaign analytics
     ├── notebooks/
     │   └── hsbc_sentiment_analysis.ipynb
     ├── visuals/
-    │   ├── sentiment_distribution.png
+    │   ├── hsbc-sentiment-analysis.png
+    |   ├── sentiment_distribution.png
     │   ├── rating_by_sentiment.png
     │   ├── sentiment_trend.png
     │   └── negative_wordcloud.png
@@ -97,6 +98,9 @@ themes, and actionable insights for a customer experience and campaign analytics
 ---
 
 ## Visualisations
+
+### Power Bi Dashboard 
+![Power BI Dashboard](visuals/hsbc-sentiment-analysis.png)
 
 ### Sentiment Distribution
 ![Sentiment Distribution](visuals/sentiment_distribution.png)
@@ -115,10 +119,10 @@ themes, and actionable insights for a customer experience and campaign analytics
 ## Dashboard Preview
 > Power BI dashboard saved in `dashboard/hsbc_sentiment_dashboard.pbix`
 
-![Dashboard Preview](visuals/hsbc-sentiment-analysis.png)
+*(Add Power BI screenshot here)*
 
 ---
 
 ## Author
 Mafijul Molla
-Data Analyst | https://www.linkedin.com/in/mafijul | https://github.com/Mafijul-01
+| Data Analyst | https://www.linkedin.com/in/mafijul | https://github.com/Mafijul-01
